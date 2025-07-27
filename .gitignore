@@ -1,7 +1,7 @@
 # Flutter/Dart
 build/
 .dart_tool/
-.packages
+.packagesgiy
 .pub/
 .idea/
 .vscode/
